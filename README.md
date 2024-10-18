@@ -9,11 +9,13 @@ Framer Motion: Framer Motion provides the AnimatePresence component to keep comp
 React Awesome Reveal: Performant animated components for React apps. Get Started. Playground. Lightweight. It does one thing and does it well. No dependencies, no bloat.
 
 Install packages from the root directory
+
 npm install
 # or
 yarn install
 
 Then, run the development server:
+
 npm run dev
 # or
 yarn dev
